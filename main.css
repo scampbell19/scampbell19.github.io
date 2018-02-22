@@ -1,4 +1,4 @@
-ul{
+#navbar1 ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -8,11 +8,11 @@ ul{
 
 }
 
-li{
+#navbar1 li{
 	float: left;
 }
 
-li a{ 
+#navbar1 li a{ 
 display: block;
 color: white;
 text-align: center;
@@ -30,10 +30,10 @@ h1 {
 
 body {
 	text-align: center;
-	background-color: #042e72;
+	background-color: #cbd1db;
 	background-repeat: no-repeat; 
 	background-size: 100%;
-	color: #c9ced6;
+	color: #000000;
 	font-family: 'Nanum Gothic Coding', monospace;
 	padding-top: 1px;
 
